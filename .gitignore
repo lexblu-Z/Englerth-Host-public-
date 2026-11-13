@@ -1,0 +1,16 @@
+﻿# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment and sensitive
+*.env
+*.token
+*.key
+*.pem
+*.pfx
+
+# Build & temps
+temp/
+tmp/
+*.log
