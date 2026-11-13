@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <linearGradient id="ehFavGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="ehFavGlow" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#141322"/>
+      <stop offset="100%" stop-color="#08070F"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="108" height="108" rx="28" fill="url(#ehFavGlow)" stroke="#3E3859" stroke-width="3"/>
+  <path d="M 32 35 L 32 85 L 50 85 L 50 72 L 42 72 L 42 63 L 48 63 L 48 57 L 42 57 L 42 45 L 50 45 L 50 35 Z" fill="url(#ehFavGrad)"/>
+  <path d="M 58 35 L 58 85 L 68 85 L 68 65 L 78 65 L 78 85 L 88 85 L 88 35 L 78 35 L 78 55 L 68 55 L 68 35 Z" fill="#F8F8FC"/>
+  <circle cx="85" cy="38" r="4.5" fill="#10B981"/>
+</svg>

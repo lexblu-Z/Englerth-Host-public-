@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 90" width="380" height="90">
+  <defs>
+    <linearGradient id="ehGradH" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="ehGlowH" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#141322"/>
+      <stop offset="100%" stop-color="#08070F"/>
+    </linearGradient>
+  </defs>
+  <!-- Icon -->
+  <g transform="translate(10, 10)">
+    <rect x="0" y="0" width="70" height="70" rx="16" fill="url(#ehGlowH)" stroke="#3E3859" stroke-width="1.5"/>
+    <path d="M 18 20 L 18 50 L 30 50 L 30 42 L 24 42 L 24 37 L 29 37 L 29 33 L 24 33 L 24 26 L 30 26 L 30 20 Z" fill="url(#ehGradH)"/>
+    <path d="M 36 20 L 36 50 L 42 50 L 42 38 L 48 38 L 48 50 L 54 50 L 54 20 L 48 20 L 48 32 L 42 32 L 42 20 Z" fill="#F8F8FC"/>
+    <circle cx="52" cy="22" r="2.5" fill="#10B981"/>
+  </g>
+  <!-- Typography -->
+  <text x="96" y="44" font-family="'Inter', -apple-system, BlinkMacSystemFont, sans-serif" font-size="26" font-weight="800" fill="#F8F8FC" letter-spacing="1.5">ENGLERTH <tspan fill="url(#ehGradH)">HOST</tspan></text>
+  <text x="98" y="64" font-family="'Inter', -apple-system, BlinkMacSystemFont, sans-serif" font-size="12" font-weight="500" fill="#9E9BB2" letter-spacing="0.8">Your world. Your server.</text>
+</svg>
