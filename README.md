@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Plataforma desktop para hospedagem, supervisão contínua e gerenciamento autônomo de servidores Minecraft no Windows.
+  Plataforma desktop para hospedagem, supervisão e gerenciamento autônomo de servidores Minecraft no Windows.
 </p>
 
 <p align="center">
